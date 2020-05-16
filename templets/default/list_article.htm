@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+<meta name="keywords" content="{dede:global.cfg_keywords/}" />
+
+<!-- mobile responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="/skin/css/style.css">
+<link rel="stylesheet" href="/skin/css/responsive.css">
+<link rel="apple-touch-icon" sizes="180x180" href="/skin/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/skin/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/skin/images/favicon/favicon-16x16.png" sizes="16x16">
+</head>
+<body>
+<div class="boxed_wrapper"> {dede:include filename="head.htm"/}
+  <div class="inner-banner has-base-color-overlay text-center" style="background: url(/skin/images/background/1.jpg);">
+    <div class="container">
+      <div class="box">
+        <h3>{dede:field name='typename'/}</h3>
+      </div>
+      <!-- /.box --> 
+    </div>
+    <!-- /.container --> 
+  </div>
+  <div class="breadcumb-wrapper">
+    <div class="container">
+      <div class="pull-left">
+        <ul class="list-inline link-list">
+          {dede:field name='position'/}
+        </ul>
+        <!-- /.list-line --> 
+      </div>
+      <!-- /.pull-left --> 
+      
+    </div>
+    <!-- /.container --> 
+  </div>
+  <div class="sidebar-page-container sec-padd-top">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+          <section class="blog-section">
+            <div class="row"> {dede:list pagesize='6' infolen='100'}
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="default-blog-news wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                  <div class="img-box"> <a href="[field:arcurl/]"><img src="[field:picname/]" alt="[field:fulltitle/]" style="height:220px; width:100%"></a> </div>
+                  <div class="lower-content">
+                    <div class="post-meta">by [field:writer/]  |  [field:pubdate function="MyDate('Y-m-d',@me)"/]</div>
+                    <div class="text">
+                      <h4><a href="[field:arcurl/]" target="_blank">[field:title/]</a></h4>
+                      <p>[field:infos/]</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              {/dede:list} </div>
+            <div class="border-bottom"></div>
+            <br>
+            <br>
+            <div class="dede_pages" style="margin-bottom:50px;">
+              <ul class="pagelist">
+                {dede:pagelist listitem="info,index,end,pre,next,pageno" listsize="5"/}
+              </ul>
+            </div>
+            <!-- /pages --> 
+          </section>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+          <div class="blog-sidebar">
+            <div class="category-style-one">
+              <div class="inner-title" style="margin-top:0px;">
+                <h4>相关栏目</h4>
+              </div>
+              <ul class="list">
+                {dede:channel type='son' }
+                <li><a href="[field:arcurl/]" class="clearfix"><span class="float_left">[field:typename/]</span></a></li>
+                {/dede:channel}
+              </ul>
+            </div>
+            <!-- End of .sidebar_categories -->
+            
+            <div class="popular_news">
+              <div class="inner-title">
+                <h4>最新动态</h4>
+              </div>
+              <div class="popular-post"> {dede:arclist titlelen='36' row='4' infolen='50'}
+                <div class="item">
+                  <div class="post-thumb"><a href="[field:arcurl/]"><img src="[field:picname/]" alt="[field:fulltitle/]" ></a></div>
+                  <h4><a href="[field:arcurl/]" target="_blank">[field:title/]</a></h4>
+                  <div class="post-info">[field:pubdate function="MyDate('Y-m-d',@me)"/]</div>
+                </div>
+                {/dede:arclist} </div>
+            </div>
+            <div class="sidebar-intsgram">
+              <div class="inner-title">
+                <h4>最新产品</h4>
+              </div>
+              <ul class="list-inline clearfix">
+                {dede:arclist titlelen='36' row='6' infolen='50' typeid ='3'}
+                <li>
+                  <div class="inner-box"> <img src="[field:picname/]" alt="[field:fulltitle/]" style="height:100px; width:100%"/>
+                    <div class="overlay">
+                      <div class="box">
+                        <div class="content"> <a href="[field:arcurl/]"><i class="fa fa-link"></i></a> </div>
+                        <!-- /.content --> 
+                      </div>
+                      <!-- /.box --> 
+                    </div>
+                    <!-- /.overlay --> 
+                  </div>
+                </li>
+                {/dede:arclist}
+              </ul>
+            </div>
+            <br>
+            <br>
+          </div>
+          <!-- End of .wrapper --> 
+        </div>
+      </div>
+    </div>
+  </div>
+  {dede:include filename="footer.htm"/} 
+  
+  <!-- jQuery js --> 
+  <script src="/skin/js/jquery.js"></script> 
+  <!-- bootstrap js --> 
+  <script src="/skin/js/bootstrap.min.js"></script> 
+  <!-- jQuery ui js --> 
+  <script src="/skin/js/jquery-ui.js"></script> 
+  <!-- owl carousel js --> 
+  <script src="/skin/js/owl.carousel.min.js"></script> 
+  <!-- jQuery validation --> 
+  <script src="/skin/js/jquery.validate.min.js"></script> 
+  <script src="http://ditu.google.cn/maps/api/js?key=AIzaSyCRvBPo3-t31YFk588DpMYS6EqKf-oGBSI"></script> 
+  <script src="/skin/js/gmap.js"></script> 
+  <!-- mixit up --> 
+  <script src="/skin/js/wow.js"></script> 
+  <script src="/skin/js/jquery.mixitup.min.js"></script> 
+  <script src="/skin/js/jquery.fitvids.js"></script> 
+  <script src="/skin/js/bootstrap-select.min.js"></script> 
+  <script src="/skin/js/menuzord.js"></script> 
+  
+  <!-- revolution slider js --> 
+  <script src="/skin/assets/revolution/js/jquery.themepunch.tools.min.js"></script> 
+  <script src="/skin/assets/revolution/js/jquery.themepunch.revolution.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.actions.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.migration.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.video.min.js"></script> 
+  
+  <!-- fancy box --> 
+  <script src="/skin/js/jquery.fancybox.pack.js"></script> 
+  <script src="/skin/js/jquery.polyglot.language.switcher.js"></script> 
+  <script src="/skin/js/nouislider.js"></script> 
+  <script src="/skin/js/jquery.bootstrap-touchspin.js"></script> 
+  <script src="/skin/js/SmoothScroll.js"></script> 
+  <script src="/skin/js/jquery.appear.js"></script> 
+  <script src="/skin/js/jquery.countTo.js"></script> 
+  <script src="/skin/js/jquery.flexslider.js"></script> 
+  <script src="/skin/js/imagezoom.js"></script> 
+  <script id="map-script" src="/skin/js/default-map.js"></script> 
+  <script src="/skin/js/custom.js"></script> 
+</div>
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<title>搜索结果页 - {dede:global.cfg_webname/}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta name="HandheldFriendly" content="true"/>
+<link rel="stylesheet" href="/skin/css/master.css"/>
+<link rel="stylesheet" href="/skin/css/index.css"/>
+<!-- SWITCHER-->
+<link href="/skin/plugins/switcher/css/switcher.css" rel="stylesheet" id="switcher-css" media="all"/>
+<link rel="icon" type="image/x-icon" href="favicon.ico"/>
+</head>
+<body>
+<!-- Loader-->
+<div id="page-preloader"><span class="spinner"></span></div>
+<!-- Loader end-->
+
+<div data-header="sticky" data-header-top="200" class="l-theme animated-css"> {dede:include filename="head.htm"/} 
+  <!-- end header-->
+  
+  <div class="section-title-page parallax-bg parallax-light">
+    <ul class="bg-slideshow">
+      <li>
+        <div style="background-image:url(/skin/media/content/title-page/1.jpg)" class="bg-slide"></div>
+      </li>
+    </ul>
+    <div class="parallax__inner">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-7">
+            <h1 class="b-title-page">搜索结果</h1>
+            <div class="b-title-page__info">搜索内容：{dede:global name='keyword' function='RemoveXSS(@me)'/}</div>
+            <!-- end b-title-page--> 
+          </div>
+          <div class="col-sm-5">
+            <ol class="breadcrumb">
+              {dede:field name='position'/}
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <section id="demo-page" class="demopage-content">
+      <div class="container">
+        <h2 class="demopage-title">搜索结果</h2>
+        <div class="starSeparatorBox clearfix">
+          <div class="demopage-preview"> {dede:list perpage='12' infolen='160'}
+            <div class="col-sm-4 col-xs-12 clearfix wow">
+              <div class="demopage-preview_item"><a target="_blank" href="[field:arcurl/]" class="demopage-preview_inner"><img src="[field:litpic/]" alt="[field:title/]" class="img-responsive"></a></div>
+              <h3>[field:title/]</h3>
+            </div>
+            {/dede:list} </div>
+        </div>
+      </div>
+      <div class="fl dede_pages" style="margin-bottom:50px;">
+        <ul class="pagelist">
+          {dede:pagelist listsize='4'/}
+        </ul>
+      </div>
+      <!-- /pages --> 
+    </section>
+  </div>
+  {dede:include filename="footer.htm"/} </div>
+<!-- end layout-theme--> 
+
+<script src="/skin/js/jquery.js"></script> 
+<script src="/skin/js/custom.js"></script> 
+<script src="/skin/js/bootstrap.min.js"></script> 
+<script src="/skin/plugins/slider-pro/jquery.sliderPro.min.js"></script> 
+<script src="/skin/plugins/owl-carousel/owl.carousel.min.js"></script> 
+<script src="/skin/plugins/magnific-popup/jquery.magnific-popup.min.js"></script> 
+<script src="/skin/plugins/bootstrap-select/dist/js/bootstrap-select.min.js"></script> 
+<script src="/skin/plugins/doubletaptogo.js"></script> 
+<script src="/skin/plugins/waypoints.min.js"></script> 
+<script src="/skin/plugins/flowplayer/flowplayer.min.js"></script> 
+<script src="/skin/plugins/classie.js"></script> 
+<script src="/skin/plugins/scrollreveal/scrollreveal.min.js"></script> 
+<script src="/skin/plugins/switcher/js/dmss.js"></script> 
+<script src="/skin/plugins/jarallax/jarallax.min.js"></script> 
+<script src="/skin/plugins/rendro-easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
+</body>
+</html>

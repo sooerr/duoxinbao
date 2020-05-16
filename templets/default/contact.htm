@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+<meta name="keywords" content="{dede:global.cfg_keywords/}" />
+
+<!-- mobile responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="/skin/css/style.css">
+<link rel="stylesheet" href="/skin/css/responsive.css">
+<link rel="apple-touch-icon" sizes="180x180" href="/skin/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/skin/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/skin/images/favicon/favicon-16x16.png" sizes="16x16">
+</head>
+<body>
+<div class="boxed_wrapper"> {dede:include filename="head.htm"/}
+  <div class="inner-banner has-base-color-overlay text-center" style="background: url(/skin/images/background/1.jpg);">
+    <div class="container">
+      <div class="box">
+        <h3>{dede:field name='typename'/}</h3>
+      </div>
+      <!-- /.box --> 
+    </div>
+    <!-- /.container --> 
+  </div>
+  <div class="breadcumb-wrapper">
+    <div class="container">
+      <div class="pull-left">
+        <ul class="list-inline link-list">
+          {dede:field name='position'/}
+        </ul>
+        <!-- /.list-line --> 
+      </div>
+      <!-- /.pull-left --> 
+      
+    </div>
+    <!-- /.container --> 
+  </div>
+  <section class="contact_details sec-padd">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 col-sm-8 col-xs-12">
+          <div class="default-cinfo">
+            <div class="accordion-box"> 
+              <!--Start single accordion box-->
+              <div class="accordion animated out" data-delay="0" data-animation="fadeInUp">
+                <div class="acc-btn active"> 联系我们
+                  <div class="toggle-icon"> <i class="plus fa fa-angle-right"></i><i class="minus fa fa-angle-down"></i> </div>
+                </div>
+                <div class="acc-content collapsed">
+                  <ul class="contact-infos">
+                    <li>
+                      <div class="icon_box"> <i class="fa fa-home"></i> </div>
+                      <!-- /.icon-box -->
+                      <div class="text-box">
+                        <p><b>地址:</b><br>
+                          {dede:global.moke_adress/}</p>
+                      </div>
+                      <!-- /.text-box --> 
+                    </li>
+                    <li>
+                      <div class="icon_box"> <i class="fa fa-phone"></i> </div>
+                      <!-- /.icon-box -->
+                      <div class="text-box">
+                        <p><b>电话:</b> <br>
+                          {dede:global.moke_phone/}</p>
+                      </div>
+                      <!-- /.text-box --> 
+                    </li>
+                    <li>
+                      <div class="icon_box"> <i class="fa fa-envelope"></i> </div>
+                      <!-- /.icon-box -->
+                      <div class="text-box">
+                        <p><b>E-Mail:</b> <br>
+                          {dede:global.moke_email/}</p>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="icon_box"> <i class="fa fa-clock-o"></i> </div>
+                      <!-- /.icon-box -->
+                      <div class="text-box">
+                        <p><b>工作时间:</b> <br>
+                          周一 - 周五: 09.00am to 18.00pm</p>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="accordion animated out" data-delay="0" data-animation="fadeInUp">
+                <div class="acc-btn"> 公司地址
+                  <div class="toggle-icon"> <span class="plus fa fa-angle-right"></span><span class="minus fa fa-angle-down"></span> </div>
+                </div>
+                <div class="acc-content">
+                  <ul class="contact-infos">
+                    <li>
+                      <div class="icon_box"> <i class="icon-signs"></i> </div>
+                      <!-- /.icon-box -->
+                      <div class="text-box">
+                        <p>四川省成都市高新区<br>
+                          电子科技大厦4楼501-2室 </p>
+                      </div>
+                      <!-- /.text-box --> 
+                    </li>
+                    <li>
+                      <div class="icon_box"> <i class="icon-global"></i> </div>
+                      <!-- /.icon-box -->
+                      <div class="text-box">
+                        <p>+321 4567 89 012 <br>
+                          supportyou@baidu.com</p>
+                      </div>
+                      <!-- /.text-box --> 
+                    </li>
+                    <li>
+                      <div class="icon_box"> <i class="icon-clock"></i> </div>
+                      <!-- /.icon-box -->
+                      <div class="text-box">
+                        <p>工作时间 <br>
+                          Mon - Sat: 09.00am to 18.00pm</p>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-8 col-sm-12 col-xs-12">
+          <div class="home-google-map">
+            <iframe src="{dede:global.cfg_cmsurl/}/map.html" width="100%" height="430" frameborder="0"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="container">
+    <div class="border-bottom"></div>
+  </div>
+  <section class="contact_us sec-padd">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-xs-12">
+          <div class="section-title">
+            <h3>在线留言</h3>
+          </div>
+          <div class="default-form-area">
+            <form id="contact-form" name="contact_form" class="default-form" action="/plus/diy.php" method="post">
+              <input type="hidden" name="action" value="post">
+              <input type="hidden" name="diyid" value="1">
+              <input type="hidden" name="do" value="2">
+              <div class="row clearfix">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                  <div class="form-group">
+                    <input type="text" name="name" class="form-control" value="" placeholder="姓名 *" required>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                  <div class="form-group">
+                    <input type="email" name="form_email" class="form-control required email" value="" placeholder="E-Mail *" required>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                  <div class="form-group">
+                    <input type="text" name="phone" class="form-control" value="" placeholder="电话">
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                  <div class="form-group">
+                    <input type="text" name="qq" class="form-control" value="" placeholder="QQ号">
+                  </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="form-group">
+                    <textarea name="con" class="form-control textarea required" placeholder="留言内容...."></textarea>
+                  </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="form-group">
+                    <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
+                    <button class="thm-btn thm-color" type="submit" data-loading-text="Please wait...">提交留言</button>
+                  </div>
+                </div>
+                <input name="dede_fields" value="name,text;con,multitext;phone,text;email,text;qq,text" type="hidden">
+                <input name="dede_fieldshash" value="0dbe0448358175fb8375a30bcdf3fa91" type="hidden">
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-8 col-xs-12">
+          <div class="section-title">
+            <h3>在线咨询</h3>
+          </div>
+          <div class="author-details">
+            <div class="item">
+              <h5>售前服务:</h5>
+              <div class="img-box"> <img src="/skin/images/service/thumb4.jpg" alt=""> </div>
+              <div class="content">
+                <h5>售前咨询</h5>
+                <p><i class="fa fa-phone"></i>+123 456 789</p>
+                <p><i class="fa fa-envelope"></i>example@baidu.com</p>
+              </div>
+            </div>
+            <div class="item">
+              <h5>售后服务:</h5>
+              <div class="img-box"> <img src="/skin/images/service/thumb5.jpg" alt=""> </div>
+              <div class="content">
+                <h5>售后咨询</h5>
+                <p><i class="fa fa-phone"></i>+123 456 789</p>
+                <p><i class="fa fa-envelope"></i>example@baidu.com</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {dede:include filename="footer.htm"/} 
+  
+  <!-- jQuery js --> 
+  <script src="/skin/js/jquery.js"></script> 
+  <!-- bootstrap js --> 
+  <script src="/skin/js/bootstrap.min.js"></script> 
+  <!-- jQuery ui js --> 
+  <script src="/skin/js/jquery-ui.js"></script> 
+  <!-- owl carousel js --> 
+  <script src="/skin/js/owl.carousel.min.js"></script> 
+  <!-- jQuery validation --> 
+  <script src="/skin/js/jquery.validate.min.js"></script> 
+  <script src="http://ditu.google.cn/maps/api/js?key=AIzaSyCRvBPo3-t31YFk588DpMYS6EqKf-oGBSI"></script> 
+  <script src="/skin/js/gmap.js"></script> 
+  <!-- mixit up --> 
+  <script src="/skin/js/wow.js"></script> 
+  <script src="/skin/js/jquery.mixitup.min.js"></script> 
+  <script src="/skin/js/jquery.fitvids.js"></script> 
+  <script src="/skin/js/bootstrap-select.min.js"></script> 
+  <script src="/skin/js/menuzord.js"></script> 
+  
+  <!-- revolution slider js --> 
+  <script src="/skin/assets/revolution/js/jquery.themepunch.tools.min.js"></script> 
+  <script src="/skin/assets/revolution/js/jquery.themepunch.revolution.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.actions.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.migration.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.video.min.js"></script> 
+  
+  <!-- fancy box --> 
+  <script src="/skin/js/jquery.fancybox.pack.js"></script> 
+  <script src="/skin/js/jquery.polyglot.language.switcher.js"></script> 
+  <script src="/skin/js/nouislider.js"></script> 
+  <script src="/skin/js/jquery.bootstrap-touchspin.js"></script> 
+  <script src="/skin/js/SmoothScroll.js"></script> 
+  <script src="/skin/js/jquery.appear.js"></script> 
+  <script src="/skin/js/jquery.countTo.js"></script> 
+  <script src="/skin/js/jquery.flexslider.js"></script> 
+  <script src="/skin/js/imagezoom.js"></script> 
+  <script id="map-script" src="/skin/js/default-map.js"></script> 
+  <script src="/skin/js/custom.js"></script> 
+</div>
+</body>
+</html>

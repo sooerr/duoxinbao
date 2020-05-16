@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+<meta name="keywords" content="{dede:global.cfg_keywords/}" />
+
+<!-- mobile responsive meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="/skin/css/style.css">
+<link rel="stylesheet" href="/skin/css/responsive.css">
+<link rel="apple-touch-icon" sizes="180x180" href="/skin/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/skin/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/skin/images/favicon/favicon-16x16.png" sizes="16x16">
+</head>
+<body>
+<div class="boxed_wrapper"> {dede:include filename="head.htm"/}
+  <div class="inner-banner has-base-color-overlay text-center" style="background: url(/skin/images/background/1.jpg);">
+    <div class="container">
+      <div class="box">
+        <h3>{dede:field name='typename'/}</h3>
+      </div>
+      <!-- /.box --> 
+    </div>
+    <!-- /.container --> 
+  </div>
+  <div class="breadcumb-wrapper">
+    <div class="container">
+      <div class="pull-left">
+        <ul class="list-inline link-list">
+          {dede:field name='position'/}
+        </ul>
+        <!-- /.list-line --> 
+      </div>
+      <!-- /.pull-left --> 
+      
+    </div>
+    <!-- /.container --> 
+  </div>
+  <section class="about-faq sec-padd">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-12 col-xs-12">
+          <div class="about-info">
+            <h4>我们致力于打造一个优秀的建站资源共享学习平台</h4>
+            <br>
+            <div class="text">
+              <p>百度云专业提供网站模板，网页模板，教程培训，程序插件，网站素材等建站资源。我们致力于打造一个优秀的建站资源共享学习平台</p>
+              <br>
+              <p>从零开始系统全面的教你如何建立一个属于自己的网站并实现盈利，课程涉及网站搭建，网站SEO，模板开发等最新建站技术</p>
+              <br>
+              <p>我们拥有大量优质的建站资源，资源市场价值上万元。在这里聚集了大量网络从业人员，提供来自全国各地、不同行业的资源与人脉。</p>
+              <br>
+            </div>
+            <div class="link_btn"> <a href="#" class="thm-btn">了解更多</a>
+              <div class="sign"><img src="/skin/images/resource/sign.jpg" alt=""></div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-sm-12 col-xs-12">
+          <div class="row">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+              <div class="img-box"> <img src="/skin/images/resource/7.jpg" alt=""> </div>
+              <br>
+              <h4>网站模板</h4>
+              <br>
+              <p>百度云专业提供网站模板，网页模板，教程培训，程序插件，网站素材等建站资源。</p>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+              <div class="img-box"> <img src="/skin/images/resource/8.jpg" alt=""> </div>
+              <br>
+              <h4>视频教程</h4>
+              <br>
+              <p>百度云专业提供网站模板，网页模板，教程培训，程序插件，网站素材等建站资源。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="three-column sec-padd-top bg">
+    <div class="container">
+      <div class="section-title center">
+        <h2>案例产品</h2>
+      </div>
+      <div class="row"> {dede:arclist titlelen='36' row='3' typeid='3' infolen='110'}
+        <div class="col-md-4 col-sm-6">
+          <div class="single-our-service">
+            <figure class="img-box"> <a href="[field:arcurl/]"> <img src="[field:picname/]" alt="[field:fulltitle/]" style="height:220px; width:100%"></a>
+              <div class="count">[field:pubdate function="MyDate('Y',@me)"/]</div>
+            </figure>
+            <div class="text-box"> <a href="[field:arcurl/]">
+              <h4>[field:title/]</h4>
+              </a>
+              <p>[field:infos/]</p>
+            </div>
+          </div>
+        </div>
+        {/dede:arclist} </div>
+    </div>
+  </section>
+  <section class="growth-service style-2 sec-padd">
+    <div class="container">
+      <div class="section-title center">
+        <h2>服务中心</h2>
+      </div>
+      <div class="row">
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <div class="item center">
+            <div class="icon_box"> <span class="icon-mathematics"></span> </div>
+            <h4>网站模板</h4>
+            <p>百度云专业提供网站模板，网页模板，模板教程，网页制作，程序插件，网站素材等建站资源</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <div class="item active center">
+            <div class="icon_box"> <span class="icon-science"></span> </div>
+            <h4>视频教程</h4>
+            <p>百度云专业提供网站模板，网页模板，模板教程，网页制作，程序插件，网站素材等建站资源</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <div class="item center">
+            <div class="icon_box"> <span class="icon-science-1"></span> </div>
+            <h4>在线培训</h4>
+            <p>百度云专业提供网站模板，网页模板，模板教程，网页制作，程序插件，网站素材等建站资源</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="our-team style-2" style="background-image: url(images/background/3.jpg);">
+    <div class="container">
+      <div class="section-title">
+        <h2>团队人员</h2>
+      </div>
+      <div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="single-team-member">
+            <figure class="img-box"> <a href="#"><img src="/skin/images/team/t1.jpg" alt=""></a>
+              <div class="overlay">
+                <div class="inner-box">
+                  <ul class="social">
+                    <li><a href="#"><i class="fa fa-weixin"></i></a></li>
+                    <li><a href="#"><i class="fa fa-weibo"></i></a></li>
+                    <li><a href="#"><i class="fa fa-qq"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </figure>
+            <div class="author-info text-center">
+              <h4>Brown Angelino</h4>
+              <a href="#">
+              <p class="position">President</p>
+              </a> </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="single-team-member">
+            <figure class="img-box"> <a href="#"><img src="/skin/images/team/t2.jpg" alt=""></a>
+              <div class="overlay">
+                <div class="inner-box">
+                  <ul class="social">
+                    <li><a href="#"><i class="fa fa-weixin"></i></a></li>
+                    <li><a href="#"><i class="fa fa-weibo"></i></a></li>
+                    <li><a href="#"><i class="fa fa-qq"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </figure>
+            <div class="author-info text-center">
+              <h4>Astley Fletcher</h4>
+              <a href="#">
+              <p class="position">Founder</p>
+              </a> </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="single-team-member">
+            <figure class="img-box"> <a href="#"><img src="/skin/images/team/t3.jpg" alt=""></a>
+              <div class="overlay">
+                <div class="inner-box">
+                  <ul class="social">
+                    <li><a href="#"><i class="fa fa-weixin"></i></a></li>
+                    <li><a href="#"><i class="fa fa-weibo"></i></a></li>
+                    <li><a href="#"><i class="fa fa-qq"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </figure>
+            <div class="author-info text-center">
+              <h4>Jones Antony</h4>
+              <a href="#">
+              <p class="position">Designer</p>
+              </a> </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="single-team-member">
+            <figure class="img-box"> <a href="#"><img src="/skin/images/team/t4.jpg" alt=""></a>
+              <div class="overlay">
+                <div class="inner-box">
+                  <ul class="social">
+                    <li><a href="#"><i class="fa fa-weixin"></i></a></li>
+                    <li><a href="#"><i class="fa fa-weibo"></i></a></li>
+                    <li><a href="#"><i class="fa fa-qq"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </figure>
+            <div class="author-info text-center">
+              <h4>Bernatt Rotty</h4>
+              <a href="#">
+              <p class="position">Manager</p>
+              </a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="two-column sec-padd">
+    <div class="container">
+      <div class="section-title center">
+        <h2> 公司动态 </h2>
+      </div>
+      <div class="two-column-carousel"> {dede:arclist titlelen='42' row='6' typeid='2' infolen='50'}
+        <div class="item clearfix">
+          <div class="img-box"><img src="[field:picname/]" alt="[field:fulltitle/]" style="width:200px; height:140px;"></div>
+          <div class="content">
+            <h4>[field:title/]</h4>
+            <p class="date">[field:pubdate function="MyDate('Y-m-d',@me)"/]</p>
+            <p>[field:infos/]</p>
+          </div>
+        </div>
+        {/dede:arclist} </div>
+    </div>
+  </section>
+  {dede:include filename="footer.htm"/} 
+  
+  <!-- jQuery js --> 
+  <script src="/skin/js/jquery.js"></script> 
+  <!-- bootstrap js --> 
+  <script src="/skin/js/bootstrap.min.js"></script> 
+  <!-- jQuery ui js --> 
+  <script src="/skin/js/jquery-ui.js"></script> 
+  <!-- owl carousel js --> 
+  <script src="/skin/js/owl.carousel.min.js"></script> 
+  <!-- jQuery validation --> 
+  <script src="/skin/js/jquery.validate.min.js"></script> 
+  <script src="http://ditu.google.cn/maps/api/js?key=AIzaSyCRvBPo3-t31YFk588DpMYS6EqKf-oGBSI"></script> 
+  <script src="/skin/js/gmap.js"></script> 
+  <!-- mixit up --> 
+  <script src="/skin/js/wow.js"></script> 
+  <script src="/skin/js/jquery.mixitup.min.js"></script> 
+  <script src="/skin/js/jquery.fitvids.js"></script> 
+  <script src="/skin/js/bootstrap-select.min.js"></script> 
+  <script src="/skin/js/menuzord.js"></script> 
+  
+  <!-- revolution slider js --> 
+  <script src="/skin/assets/revolution/js/jquery.themepunch.tools.min.js"></script> 
+  <script src="/skin/assets/revolution/js/jquery.themepunch.revolution.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.actions.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.migration.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script> 
+  <script src="/skin/assets/revolution/js/extensions/revolution.extension.video.min.js"></script> 
+  
+  <!-- fancy box --> 
+  <script src="/skin/js/jquery.fancybox.pack.js"></script> 
+  <script src="/skin/js/jquery.polyglot.language.switcher.js"></script> 
+  <script src="/skin/js/nouislider.js"></script> 
+  <script src="/skin/js/jquery.bootstrap-touchspin.js"></script> 
+  <script src="/skin/js/SmoothScroll.js"></script> 
+  <script src="/skin/js/jquery.appear.js"></script> 
+  <script src="/skin/js/jquery.countTo.js"></script> 
+  <script src="/skin/js/jquery.flexslider.js"></script> 
+  <script src="/skin/js/imagezoom.js"></script> 
+  <script id="map-script" src="/skin/js/default-map.js"></script> 
+  <script src="/skin/js/custom.js"></script> 
+</div>
+</body>
+</html>
