@@ -101,6 +101,10 @@ License: http://codecanyon.net/licenses
 .menuzord-menu.menuzord-right{
 	float: right;
 }
+/* Right alignment */
+.menuzord-menu.menuzord-top{
+	float: right;
+}
 /* Menu items */
 .menuzord-menu > li{
 	display: inline-block;

@@ -4,7 +4,7 @@ INSERT INTO `dede_sysconfig` VALUES('3','cfg_cookie_encode','cookie加密码','2
 INSERT INTO `dede_sysconfig` VALUES('4','cfg_indexurl','网页主页链接','1','string','/');
 INSERT INTO `dede_sysconfig` VALUES('5','cfg_backup_dir','数据备份目录（在data目录内）','2','string','backupdata');
 INSERT INTO `dede_sysconfig` VALUES('6','cfg_indexname','主页链接名','1','string','主页');
-INSERT INTO `dede_sysconfig` VALUES('7','cfg_webname','网站名称','1','string','响应式蓝色高端商务公司企业dedecms整站源码(自适应手机端)');
+INSERT INTO `dede_sysconfig` VALUES('7','cfg_webname','网站名称','1','string','多薪宝');
 INSERT INTO `dede_sysconfig` VALUES('8','cfg_adminemail','网站发信EMAIL','2','string','admin@baidu.com');
 INSERT INTO `dede_sysconfig` VALUES('9','cfg_html_editor','Html编辑器（ckeditor,需要fck的用户可以去官网下载）','2','string','ckeditor');
 INSERT INTO `dede_sysconfig` VALUES('10','cfg_arcdir','文档HTML默认保存路径','1','string','/a');
