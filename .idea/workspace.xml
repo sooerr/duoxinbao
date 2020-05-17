@@ -2,67 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d7c761-0dcd-424b-aecc-8788f05bcb58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/top-menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skin/images/logo/logo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skin/images/slider/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/allimg/150912/1-150912145S80-L.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/allimg/150912/1-1509121500040-L.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/allimg/150912/1-1509121500440-L.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/allimg/160508/1-16050Q931590-L-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/allimg/161006/1-1610061A9300-L.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/2015/0731/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/2015/0731/8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/list_3_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/list_3_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/list_3_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/list_3_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/pingmian/2015/0723/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/pingmian/2015/0723/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/pingmian/2015/0731/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/pingmian/2015/0731/6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/pingmian/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/pingmian/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/pingmian/list_6_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/pingmian/list_6_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0731/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0731/7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0912/12.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0912/12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0912/13.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0912/13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0912/14.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0912/14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0912/15.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0912/15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/shouji/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/shouji/list_4_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/list_4_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/websj/2015/0731/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/2015/0731/5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/websj/2015/0912/16.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/2015/0912/16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/websj/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/websj/list_5_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/list_5_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/guanyuwomen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/guanyuwomen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/guanyuwomen/list_13_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/guanyuwomen/list_13_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/lianxiwomen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/lianxiwomen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/lianxiwomen/list_12_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/lianxiwomen/list_12_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/2015/0722/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/2015/0722/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/2015/0731/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/2015/0731/3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/2015/0731/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/2015/0731/4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/2016/0508/24.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/2016/0508/24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/chanpindongtai/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/chanpindongtai/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/chanpindongtai/list_9_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/chanpindongtai/list_9_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/2015/0912/10.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/2015/0912/10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/2016/1006/25.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/2016/1006/25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/2016/1006/26.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/2016/1006/26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/list_8_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/list_8_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/list_2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/list_2_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/list_2_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/list_2_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/xingyezhishi/2016/0508/22.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/xingyezhishi/2016/0508/22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/xingyezhishi/2016/0508/23.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/xingyezhishi/2016/0508/23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/xingyezhishi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/xingyezhishi/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/xingyezhishi/list_10_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/xingyezhishi/list_10_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/wenzhangboke/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/wenzhangboke/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/wenzhangboke/list_19_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/wenzhangboke/list_19_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/wenzhangboke/list_19_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/wenzhangboke/list_19_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/backupdata/dede_archives_0_6530c0a98c377e3b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/backupdata/dede_archives_0_6530c0a98c377e3b.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/backupdata/dede_sysconfig_0_2d5840f26bb70158.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/backupdata/dede_sysconfig_0_2d5840f26bb70158.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/backupdata/dede_uploads_0_76f8f07c02133d7f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/backupdata/dede_uploads_0_76f8f07c02133d7f.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/config.cache.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/data/config.cache.inc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/css/menuzord.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/css/menuzord.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/allimg/160508/1-16050Q931590-L.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589603930789</updated>
-      <workItem from="1589603932823" duration="20516000" />
+      <workItem from="1589603932823" duration="21230000" />
     </task>
     <servers />
   </component>
