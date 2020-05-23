@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d7c761-0dcd-424b-aecc-8788f05bcb58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/platform/jiaoshui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/platform/shuichoujieshao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/platform/xitongjiaohu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/platform/yonggong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/products/agents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/products/lianxiwomen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/products/saas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/products/tax_strategy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/websj/2015/0731/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/2015/0731/5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/websj/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/skin/images/logo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/products" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -51,11 +64,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/products" />
+      <recent name="$PROJECT_DIR$/images/platform" />
       <recent name="$PROJECT_DIR$/skin/images/logo" />
       <recent name="$PROJECT_DIR$/skin/images/slider" />
       <recent name="$PROJECT_DIR$/uploads/allimg/160508" />
-      <recent name="$PROJECT_DIR$/uploads/allimg/161006" />
-      <recent name="$PROJECT_DIR$/uploads/allimg/150912" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -68,7 +84,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589603930789</updated>
-      <workItem from="1589603932823" duration="22051000" />
+      <workItem from="1589603932823" duration="22652000" />
+      <workItem from="1589962912613" duration="7581000" />
+      <workItem from="1590074354203" duration="1865000" />
+      <workItem from="1590242355889" duration="4227000" />
     </task>
     <servers />
   </component>
@@ -84,5 +103,17 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="305" y="62" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1589700700305" />
+    <state x="211" y="302" key="svn.passwordDialog" timestamp="1590114379581">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="211" y="302" key="svn.passwordDialog/0.0.1280.800@0.0.1280.800" timestamp="1590114379581" />
+    <state x="432" y="308" key="svn.upgradeDialog" timestamp="1590114372024">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="432" y="308" key="svn.upgradeDialog/0.0.1280.800@0.0.1280.800" timestamp="1590114372024" />
+    <state x="228" y="271" key="svn4idea.checkout.options" timestamp="1590114370733">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="228" y="271" key="svn4idea.checkout.options/0.0.1280.800@0.0.1280.800" timestamp="1590114370733" />
   </component>
 </project>
