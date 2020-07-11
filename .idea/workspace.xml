@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d7c761-0dcd-424b-aecc-8788f05bcb58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/products/agents.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/agents.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/products/lianxiwomen.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/lianxiwomen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/products/saas.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/saas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/products/tax_strategy.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/tax_strategy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/logo/logo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/images/logo/logo3.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
       <workItem from="1590242355889" duration="4227000" />
       <workItem from="1590410390096" duration="4988000" />
       <workItem from="1591879672624" duration="612000" />
-      <workItem from="1594455631107" duration="1869000" />
+      <workItem from="1594455631107" duration="2467000" />
     </task>
     <servers />
   </component>
@@ -90,14 +86,14 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="155" width="834" height="576" key="find.popup" timestamp="1594458657485">
+    <state x="341" y="155" width="834" height="576" key="find.popup" timestamp="1594459658974">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="341" y="155" width="834" height="576" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1594458657485" />
-    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1589700700305">
+    <state x="341" y="155" width="834" height="576" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1594459658974" />
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1594459971430">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1589700700305" />
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1594459971430" />
     <state x="211" y="302" key="svn.passwordDialog" timestamp="1590114379581">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
