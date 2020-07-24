@@ -25,7 +25,7 @@ INSERT INTO `dede_sysconfig` VALUES('24','cfg_df_style','模板默认风格','1'
 INSERT INTO `dede_sysconfig` VALUES('25','cfg_multi_site','(是/否)支持多站点，开启此项后附件、栏目连接、arclist内容启用绝对网址','2','bool','N');
 INSERT INTO `dede_sysconfig` VALUES('58','cfg_rm_remote','远程图片本地化','7','bool','Y');
 INSERT INTO `dede_sysconfig` VALUES('27','cfg_dede_log','(是/否)开启管理日志','2','bool','N');
-INSERT INTO `dede_sysconfig` VALUES('28','cfg_powerby','网站版权信息','1','bstring','Copyright &copy; 某某企业通用织梦模板 版权所有');
+INSERT INTO `dede_sysconfig` VALUES('28','cfg_powerby','网站版权信息','1','bstring','Copyright &copy; 北京薪才汇聚科技有限 版权所有');
 INSERT INTO `dede_sysconfig` VALUES('722','cfg_jump_once','跳转网址是否直接跳转？（否则显示中转页）','7','bool','Y');
 INSERT INTO `dede_sysconfig` VALUES('723','cfg_task_pwd','系统计划任务客户端许可密码<br/>(需要客户端，通常不会太重要)','7','string','');
 INSERT INTO `dede_sysconfig` VALUES('29','cfg_arcsptitle','(是/否)开启分页标题，开启会影响HTML生成速度','6','bool','N');
@@ -105,7 +105,7 @@ INSERT INTO `dede_sysconfig` VALUES('707','cfg_allsearch_limit','网站全局搜
 INSERT INTO `dede_sysconfig` VALUES('709','cfg_delete','文章回收站(是/否)开启','2','bool','Y');
 INSERT INTO `dede_sysconfig` VALUES('710','cfg_keywords','站点默认关键字','1','string','');
 INSERT INTO `dede_sysconfig` VALUES('711','cfg_description','站点描述','1','bstring','');
-INSERT INTO `dede_sysconfig` VALUES('712','cfg_beian','网站备案号','1','string','蜀ICP备32165478号');
+INSERT INTO `dede_sysconfig` VALUES('712','cfg_beian','网站备案号','1','string','京ICP备20027284号');
 INSERT INTO `dede_sysconfig` VALUES('713','cfg_need_typeid2','是否启用副栏目','6','bool','Y');
 INSERT INTO `dede_sysconfig` VALUES('72','cfg_mb_pwdtype','前台密码验证类型：默认32 — 32位md5，可选：<br />l16 — 前16位， r16 — 后16位， m16 — 中间16位','4','string','32');
 INSERT INTO `dede_sysconfig` VALUES('716','cfg_cache_type','id 文档ID，content 标签最终内容<br />(修改此变量后必须更新系统缓存)','6','string','id');

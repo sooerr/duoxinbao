@@ -2,7 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d7c761-0dcd-424b-aecc-8788f05bcb58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/platform/yonggong-0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/2015/0731/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/2015/0731/8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/list_3_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/list_3_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/list_3_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/list_3_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/pingmian/2015/0723/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/pingmian/2015/0723/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/pingmian/2015/0731/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/pingmian/2015/0731/6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/pingmian/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/pingmian/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/pingmian/list_6_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/pingmian/list_6_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0731/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0731/7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0912/12.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0912/12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0912/13.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0912/13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0912/14.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0912/14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/shouji/2015/0912/15.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/2015/0912/15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/shouji/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/shouji/list_4_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/shouji/list_4_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/websj/2015/0731/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/2015/0731/5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/websj/2015/0912/16.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/2015/0912/16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/websj/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/anni/websj/list_5_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/websj/list_5_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/guanyuwomen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/guanyuwomen/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/guanyuwomen/list_13_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/guanyuwomen/list_13_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/lianxiwomen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/lianxiwomen/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/lianxiwomen/list_12_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/lianxiwomen/list_12_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/2015/0722/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/2015/0722/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/2015/0731/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/2015/0731/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/2015/0731/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/2015/0731/4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/2016/0508/24.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/2016/0508/24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/chanpindongtai/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/chanpindongtai/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/chanpindongtai/list_9_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/chanpindongtai/list_9_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/2015/0912/10.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/2015/0912/10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/2016/1006/25.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/2016/1006/25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/2016/1006/26.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/2016/1006/26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/gongsixinwen/list_8_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/gongsixinwen/list_8_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/list_2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/list_2_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/list_2_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/list_2_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/xingyezhishi/2016/0508/22.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/xingyezhishi/2016/0508/22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/xingyezhishi/2016/0508/23.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/xingyezhishi/2016/0508/23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/xingyezhishi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/xingyezhishi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a/news/xingyezhishi/list_10_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/xingyezhishi/list_10_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/backupdata/dede_sysconfig_0_2d5840f26bb70158.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/backupdata/dede_sysconfig_0_2d5840f26bb70158.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/config.cache.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/data/config.cache.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/platform/yonggong.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/platform/yonggong.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/products/agents.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/agents.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products/lianxiwomen.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/lianxiwomen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products/saas.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/saas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products/tax_strategy.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/tax_strategy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +90,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/platform" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -50,15 +99,15 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pages" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/platform" />
       <recent name="$PROJECT_DIR$/pages/products" />
       <recent name="$PROJECT_DIR$/skin/images/logo" />
       <recent name="$PROJECT_DIR$/skin/images/slider" />
       <recent name="$PROJECT_DIR$/uploads/allimg/160508" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -78,7 +127,8 @@
       <workItem from="1590410390096" duration="4988000" />
       <workItem from="1591879672624" duration="612000" />
       <workItem from="1594455631107" duration="5991000" />
-      <workItem from="1595495799965" duration="100000" />
+      <workItem from="1595495799965" duration="307000" />
+      <workItem from="1595595936293" duration="3669000" />
     </task>
     <servers />
   </component>
@@ -86,14 +136,14 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="155" width="834" height="576" key="find.popup" timestamp="1595495869380">
+    <state x="341" y="155" width="834" height="576" key="find.popup" timestamp="1595600514041">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="341" y="155" width="834" height="576" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1595495869380" />
-    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1594459971430">
+    <state x="341" y="155" width="834" height="576" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1595600514041" />
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1595598270335">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1594459971430" />
+    <state x="305" y="62" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1595598270335" />
     <state x="211" y="302" key="svn.passwordDialog" timestamp="1590114379581">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
