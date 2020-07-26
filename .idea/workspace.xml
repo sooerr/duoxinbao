@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d7c761-0dcd-424b-aecc-8788f05bcb58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/news/keqiangli.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/platform/shuichoujieshao-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/platform/yonggong-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/anni/2015/0731/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/anni/2015/0731/8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/a/news/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/top-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/top-menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/news/keqiangli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/news/new2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/platform/aboutus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/platform/yonggong-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-backup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/products/agents.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/agents.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/products/lianxiwomen.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/lianxiwomen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/products/saas.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/saas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/products/tax_strategy.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/tax_strategy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/skin/css/style.css" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,25 +48,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/platform" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/news" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/news" />
+      <recent name="$PROJECT_DIR$/images/platform" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pages/products" />
+      <recent name="$PROJECT_DIR$/skin/images/logo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/platform" />
-      <recent name="$PROJECT_DIR$/images/news" />
-      <recent name="$PROJECT_DIR$/pages/products" />
-      <recent name="$PROJECT_DIR$/skin/images/logo" />
-      <recent name="$PROJECT_DIR$/skin/images/slider" />
-    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -92,11 +100,26 @@
       <workItem from="1595495799965" duration="307000" />
       <workItem from="1595595936293" duration="3669000" />
       <workItem from="1595667689163" duration="8691000" />
+      <workItem from="1595732555540" duration="203000" />
+      <workItem from="1595734985783" duration="3791000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="341" y="155" width="834" height="576" key="find.popup" timestamp="1595675939482">
