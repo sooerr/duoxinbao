@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d7c761-0dcd-424b-aecc-8788f05bcb58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skin/images/clients/58daojia的副本.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skin/images/clients/douyu的副本.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skin/images/clients/huajiao的副本.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skin/images/clients/xipu的副本.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products/agents.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/agents.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products/lianxiwomen.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/lianxiwomen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/products/tax_strategy.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/tax_strategy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/images/clients/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/images/clients/111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/images/clients/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/images/clients/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/images/clients/58daojia.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/images/clients/58daojia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/images/clients/douyu.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/images/clients/douyu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/images/clients/huajiao.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/images/clients/huajiao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin/images/clients/xipu.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/images/clients/xipu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templets/default/footer.htm" beforeDir="false" afterPath="$PROJECT_DIR$/templets/default/footer.htm" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,37 +57,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/news" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/platform" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/news" />
-      <recent name="$PROJECT_DIR$/images/platform" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/pages/products" />
-      <recent name="$PROJECT_DIR$/skin/images/logo" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/platform" />
+      <recent name="$PROJECT_DIR$/images/news" />
+      <recent name="$PROJECT_DIR$/pages/products" />
+      <recent name="$PROJECT_DIR$/skin/images/logo" />
+      <recent name="$PROJECT_DIR$/skin/images/slider" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -97,32 +97,18 @@
       <workItem from="1595495799965" duration="307000" />
       <workItem from="1595595936293" duration="3669000" />
       <workItem from="1595667689163" duration="8691000" />
-      <workItem from="1595732555540" duration="203000" />
-      <workItem from="1595734985783" duration="5442000" />
+      <workItem from="1595746896204" duration="2687000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="155" width="834" height="576" key="find.popup" timestamp="1595675939482">
+    <state x="341" y="155" width="834" height="576" key="find.popup" timestamp="1595749357848">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="341" y="155" width="834" height="576" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1595675939482" />
+    <state x="341" y="155" width="834" height="576" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1595749357848" />
     <state x="305" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1595598270335">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
