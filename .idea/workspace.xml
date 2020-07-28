@@ -39,25 +39,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/platform" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/news" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/news" />
+      <recent name="$PROJECT_DIR$/images/platform" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pages/products" />
+      <recent name="$PROJECT_DIR$/skin/images/logo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pages" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/platform" />
-      <recent name="$PROJECT_DIR$/images/news" />
-      <recent name="$PROJECT_DIR$/pages/products" />
-      <recent name="$PROJECT_DIR$/skin/images/logo" />
-      <recent name="$PROJECT_DIR$/skin/images/slider" />
-    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -81,17 +93,33 @@
       <workItem from="1595667689163" duration="8691000" />
       <workItem from="1595746896204" duration="2758000" />
       <workItem from="1595817418262" duration="39000" />
+      <workItem from="1595732555540" duration="203000" />
+      <workItem from="1595734985783" duration="5541000" />
+      <workItem from="1595950089856" duration="169000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="155" width="834" height="576" key="find.popup" timestamp="1595749357848">
+    <state x="341" y="155" width="834" height="576" key="find.popup" timestamp="1595675939482">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="341" y="155" width="834" height="576" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1595749357848" />
+    <state x="341" y="155" width="834" height="576" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1595675939482" />
     <state x="305" y="62" width="670" height="676" key="search.everywhere.popup" timestamp="1595598270335">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
