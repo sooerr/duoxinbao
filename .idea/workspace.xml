@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42d7c761-0dcd-424b-aecc-8788f05bcb58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/skin/images/clients/58daojia的副本.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skin/images/clients/douyu的副本.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skin/images/clients/huajiao的副本.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skin/images/clients/xipu的副本.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/products/agents.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/agents.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/products/lianxiwomen.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/lianxiwomen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/products/tax_strategy.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/products/tax_strategy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/111.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/58daojia.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/images/clients/58daojia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/douyu.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/images/clients/douyu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/huajiao.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/images/clients/huajiao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin/images/clients/xipu.png" beforeDir="false" afterPath="$PROJECT_DIR$/skin/images/clients/xipu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templets/default/footer.htm" beforeDir="false" afterPath="$PROJECT_DIR$/templets/default/footer.htm" afterDir="false" />
-    </list>
+    <list default="true" id="42d7c761-0dcd-424b-aecc-8788f05bcb58" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +79,8 @@
       <workItem from="1595495799965" duration="307000" />
       <workItem from="1595595936293" duration="3669000" />
       <workItem from="1595667689163" duration="8691000" />
-      <workItem from="1595746896204" duration="2687000" />
+      <workItem from="1595746896204" duration="2758000" />
+      <workItem from="1595817418262" duration="39000" />
     </task>
     <servers />
   </component>
